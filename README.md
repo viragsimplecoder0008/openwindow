@@ -1,6 +1,2 @@
-OPENWINDOW.
-FOR DEVELOPERS ONLY. 
-INSTRUCTIONS:
-COPY THE CODE,
-MAKE CHANGES AS YOU LIKE.
+This is a template for whoever wants to open a BLANK window using C++
 
